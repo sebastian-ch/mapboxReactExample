@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mapboxReactExample/static/css/main.c252fddb.chunk.css",
-    "main.js": "/mapboxReactExample/static/js/main.f4b98b50.chunk.js",
-    "main.js.map": "/mapboxReactExample/static/js/main.f4b98b50.chunk.js.map",
+    "main.js": "/mapboxReactExample/static/js/main.0a2b9f4a.chunk.js",
+    "main.js.map": "/mapboxReactExample/static/js/main.0a2b9f4a.chunk.js.map",
     "runtime-main.js": "/mapboxReactExample/static/js/runtime-main.78c68941.js",
     "runtime-main.js.map": "/mapboxReactExample/static/js/runtime-main.78c68941.js.map",
     "static/js/2.68eea59d.chunk.js": "/mapboxReactExample/static/js/2.68eea59d.chunk.js",
     "static/js/2.68eea59d.chunk.js.map": "/mapboxReactExample/static/js/2.68eea59d.chunk.js.map",
     "index.html": "/mapboxReactExample/index.html",
-    "precache-manifest.0693f3b395ddfce8c3f063f030184d49.js": "/mapboxReactExample/precache-manifest.0693f3b395ddfce8c3f063f030184d49.js",
+    "precache-manifest.bd934daf189ae27e8c8fa5bc336e3b4b.js": "/mapboxReactExample/precache-manifest.bd934daf189ae27e8c8fa5bc336e3b4b.js",
     "service-worker.js": "/mapboxReactExample/service-worker.js",
     "static/css/main.c252fddb.chunk.css.map": "/mapboxReactExample/static/css/main.c252fddb.chunk.css.map",
     "static/js/2.68eea59d.chunk.js.LICENSE.txt": "/mapboxReactExample/static/js/2.68eea59d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.78c68941.js",
     "static/js/2.68eea59d.chunk.js",
     "static/css/main.c252fddb.chunk.css",
-    "static/js/main.f4b98b50.chunk.js"
+    "static/js/main.0a2b9f4a.chunk.js"
   ]
 }
