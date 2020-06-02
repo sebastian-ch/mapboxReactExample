@@ -26,10 +26,6 @@ class Map extends Component {
 
 
         map.on('load', () => {
-            map.flyTo({
-                center: [54, 32],
-                zoom: [5]
-            })
 
             map.addSource('nh', {
                 'type': 'geojson',
@@ -45,15 +41,14 @@ class Map extends Component {
                     'fill-opacity': 0.8
                 }
 
+            })
 
-
-
-
+            map.flyTo({
+                center: [-71, 43],
+                zoom: [5]
             })
 
         })
-
-
     }
 
     render() {
